@@ -9,7 +9,7 @@ import {
   Chip,
 } from "@mui/material";
 import { motion } from "framer-motion";
-import GitHubIcon from "@mui/icons-material/GitHub";
+// import GitHubIcon from "@mui/icons-material/GitHub";
 import LaunchIcon from "@mui/icons-material/Launch";
 import angelai from "../assets/angelai.webp";
 import akosMD from "../assets/akosMD.png";
